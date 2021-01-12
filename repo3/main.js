@@ -1,1 +1,1 @@
-console.log("It is past my bedtime.")
+console.log("It is way past my bedtime.")
